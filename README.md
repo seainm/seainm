@@ -4,7 +4,7 @@ I'm Seainm, thanks for dropping by ~
 ### About 🌱
 - coder for life and bits
 - lifetime learner
-- CS master degree (NJU)
+- CS master's degree (NJU)
   
 ### Skills 🤔
 
